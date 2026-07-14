@@ -25,6 +25,8 @@
 }
 .homesection{
     background:linear-gradient(135deg, #0b1026 0%, #111827 50%, hsl(208, 100%, 77%) 100%);
+    height:50vh;
+    
 }
 .heading{
     color:white;
