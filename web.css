@@ -55,8 +55,7 @@
 }
 .herosection{
     background: linear-gradient(135deg, #26377f 0%, #111827 50%, #30477e 100%);
-    height:100vh;
-    background-size:cover;
+    
 }
 .heroheading{
     background: linear-gradient(90deg, #A855F7, #38BDF8);
